@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This template has Chakra UI installed and configured on top of the [Next.js `create-next-app` starter kit](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
