@@ -98,7 +98,7 @@ const Navbar = props => {
                                     <MenuItem as={Link}>Posts</MenuItem>
                                 </NextLink>
                                 
-                                <MenuItem as={Link} href="https://github.com/etherflovv">
+                                <MenuItem as={Link} href="https://github.com/etherflovv/nextjs-chakraui-template" target="_blank">
                                     View Source
                                 </MenuItem>
                                 
