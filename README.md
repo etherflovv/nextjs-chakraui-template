@@ -1,5 +1,9 @@
 This template has [Chakra UI](https://chakra-ui.com/guides/getting-started/nextjs-guide) installed and configured on top of the [Next.js `create-next-app` starter kit](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Tutorial: https://youtu.be/bSMZgXzC9AA
+
+Deployed: https://nextjs-chakraui-template-indol.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
