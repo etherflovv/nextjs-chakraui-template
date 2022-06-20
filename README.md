@@ -1,4 +1,4 @@
-This template has Chakra UI installed and configured on top of the [Next.js `create-next-app` starter kit](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This template has [Chakra UI](https://chakra-ui.com/guides/getting-started/nextjs-guide) installed and configured on top of the [Next.js `create-next-app` starter kit](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
